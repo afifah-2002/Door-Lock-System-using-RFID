@@ -28,12 +28,12 @@ The IoT based project involves creating a secure and automated RFID door lock sy
   <img src="/images/img2.png"/>
 
 </p>
-3. Arduino
+3. Arduino Board
 <p align="center">
   <img src="/images/img3.png"/>
 
 </p>
-4. Door Locl
+4. Door Lock
 <p align="center">
   <img src="/images/img4.png"/>
 
