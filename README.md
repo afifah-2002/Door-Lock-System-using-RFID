@@ -39,12 +39,8 @@ The IoT based project involves creating a secure and automated RFID door lock sy
 
 </p>
 5. Demonstration
- <p align="center">
-     <video width="640"
 
 https://github.com/afifah-2002/Door-Lock-System-using-RFID/assets/94037501/b0c7a7f3-8a9d-4168-aaa1-e6d0505a6e92
 
- height="360" controls>
-       <source src="/images/vid.mp4" type="video/mp4">
-     </video>
-   </p>
+ 
+       
