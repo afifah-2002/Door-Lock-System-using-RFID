@@ -18,18 +18,28 @@ The IoT based project involves creating a secure and automated RFID door lock sy
 - Servo motor -SG90
 - Bread Board
 ## 4. Prototype
-1. Authentication Model
+1. Top View
 <p align="center">
-  <img src="Model Pictures/Authentication Model.jpeg"/>
+  <img src="/images/img1.png"/>
 
 </p>
-2. Front View (Keypad & Fingerprint Sensor)
+2. RFID Reader
 <p align="center">
-  <img src="Model Pictures/Front View.jpeg"/>
+  <img src="/images/img2.png"/>
 
 </p>
-3. Top View (LCD)
+3. Arduino
 <p align="center">
-  <img src="Model Pictures/Top View.jpeg"/>
+  <img src="/images/img3.png"/>
+
+</p>
+4. Door Locl
+<p align="center">
+  <img src="/images/img4.png"/>
+
+</p>
+5. Demonstration
+<p align="center">
+  <img src="/images/vid.mp4"/>
 
 </p>
