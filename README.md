@@ -39,7 +39,9 @@ The IoT based project involves creating a secure and automated RFID door lock sy
 
 </p>
 5. Demonstration
-<p align="center">
-  <img src="/images/vid.mp4"/>
-
-</p>
+ <p align="center">
+     <video width="640" height="360" controls>
+       <source src="/images/vid.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+     </video>
+   </p>
